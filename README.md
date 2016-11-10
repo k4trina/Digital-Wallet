@@ -1,8 +1,8 @@
 # Digital-Wallet
 
-Developer: Katrina Sitkovits
-Email: katrina.sitkovits@gmail.com
-Date: November 10, 2015
+## Developer: Katrina Sitkovits
+## Email: katrina.sitkovits@gmail.com
+## Date: November 10, 2015
 
 Programming Langugage: Python
 
