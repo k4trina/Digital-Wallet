@@ -23,4 +23,4 @@ $ pip install crypto
 $ pip install pycrypto
 ```
 
-<img src="https://github.com/k4trina/Digital-Wallet/blob/master/PayMo_RSA.PNG" height="400">
+<img src="https://github.com/k4trina/Digital-Wallet/blob/master/PayMo_RSA.PNG" height="80%" width="80%">
