@@ -22,3 +22,5 @@ $ sudo apt install python-pip
 $ pip install crypto
 $ pip install pycrypto
 ```
+
+<img src="https://github.com/k4trina/Digital-Wallet/blob/master/PayMo_RSA.PNG">
