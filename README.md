@@ -2,8 +2,8 @@
 
 #### Developer: Katrina Sitkovits
 #### Email: katrina.sitkovits@gmail.com
-#### Date: November 10, 2015
-Programming Langugage: Python
+#### Date: November 10, 2016
+#### Programming Langugage: Python
 
 The Digital Wallet project implements PayMo verification as part of the Insight Data Engineering coding challenge here:
 https://github.com/InsightDataScience/digital-wallet
