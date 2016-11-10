@@ -12,11 +12,13 @@ Features 1, 2, and 3 of the challenge are implemented using a depth-first search
 
 The run.sh script executes each feature project independently. Each feature creates a single output text file based on the batch_payment.txt and stream_payment.txt files provided. Each feature first constructs the initial state of the user network, and then verifies incoming stream payment requests.
 
-Features 1, 2, and 3 only require the standard Python sys library.
+Features 1, 2, and 3 only require the standard Python ```sys``` library.
 
-Feature 4 requires the Python developer package, and the following libraries: crypto and pycrypto
+Feature 4 requires the Python developer package, and the following libraries: ```crypto``` and ```pycrypto```
 They can be installed as follows:
+```
 $ sudo apt-get install python-dev
 $ sudo apt install python-pip
 $ pip install crypto
 $ pip install pycrypto
+```
